@@ -83,7 +83,7 @@ pip install -r requirements.txt
 The EfficientNet-B0 model (best_model.pth) is not stored in this repository due to size constraints.
 
 1. Download the model from:
-📎 Download best_model.pth['']
+📎 Download best_model.pth['https://drive.google.com/file/d/1wU7xL4goWLo4iNEKvhZ9ZMvXaNlchBru/view?usp=drive_link']
 
 2. Create a model folder in the project root:
 
