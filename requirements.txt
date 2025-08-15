@@ -1,0 +1,10 @@
+fastapi
+uuid
+typing
+pillow
+torchvision
+dotenv
+opencv-python
+python-multipart
+uvicorn
+streamlit
